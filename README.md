@@ -1,6 +1,6 @@
 - Hi, I’m @luckyluck07
 - I’m interested in Back-end Web Developing.
-- I’m currently learning PHP and Javascript as my main strength to Back-end Web Developer.
+- I’m currently learning PHP as my main strength to Back-end Web Developer.
 - I'm currently working as an Software Engineer Intern.
 
 <!---
