@@ -1,6 +1,4 @@
-- Hi, I’m @luckyluck07
-- I’m interested in Back-end Web Developing.
-- I’m currently learning PHP as my main strength to Back-end Web Developer.
+- Hi, I’m Lucky Anugrah Ramadhan
 - I'm currently working as an Software Engineer Intern.
 
 <!---
